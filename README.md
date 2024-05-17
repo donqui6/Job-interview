@@ -1,12 +1,12 @@
 # PixelQuest Studios
 
-Bienvenue chez **PixelQuest Studios** ! Nous sommes une entreprise passionnée par la création de jeux vidéo innovants et captivants. Notre objectif est de transporter les joueurs dans des univers fantastiques et de leur offrir des expériences de jeu inoubliables.
+Welcome to **PixelQuest Studios**! We are a company passionate about creating innovative and engaging video games. Our goal is to transport players into fantastic worlds and offer them unforgettable gaming experiences.
 
-### Notre Mission
-Chez PixelQuest Studios, nous croyons en la magie du jeu. Nous nous efforçons de créer des mondes immersifs et des aventures passionnantes qui captivent l'imagination et stimulent l'esprit des joueurs du monde entier.
+### Our mission
+At PixelQuest Studios, we believe in the magic of gaming. We strive to create immersive worlds and exciting adventures that capture the imagination and stimulate the minds of gamers everywhere.
 
-## Notre Jeu : Magic Overload
+## Our Game: Magic Overload
 
-**Magic Overload** est notre dernier jeu en développement. Plongez dans un univers enchanté où la magie est omniprésente et où les joueurs doivent maîtriser des sorts puissants pour vaincre leurs ennemis et résoudre des énigmes mystérieuses.
+**Magic Overload** is our latest game in development. Immerse yourself in an enchanted universe where magic is everywhere and players must master powerful spells to defeat their enemies and solve mysterious puzzles.
  
-Pour plus d'informations, visitez notre site web [PixelQuest Studios](http://www.pixelqueststudios.com) ou suivez-nous sur les réseaux sociaux.
+For more information, visit our website [PixelQuest Studios](http://www.pixelqueststudios.com) or follow us on social media.
